@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/BlackPil/Arduino_Core_STM32G030/releases/download/blackpill/STM32G030-1.0.1.tar.bz2",
           "archiveFileName": "STM32G030-1.0.1.tar.bz2",
-          "checksum": "SHA-256:fbcd9ac2be45b14e8133eedbe7567c5526734ae96d1ee97aa378d19244724845",
-          "size": "2414300",
+          "checksum": "SHA-256:739a11bdff2cb4c2b11f7bda2a8cb7b57fbcff426895636344c78c4b7e267fb0",
+          "size": "2413675",
           "boards": [
             {"name": "Generic STM32G0 series"}
           ],
